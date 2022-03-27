@@ -1,0 +1,17 @@
+MUNKA
+    munka 
+    Gyorsítási munka
+    munkatétel
+    húzóerő munkája
+    emelési munka
+    surlódási munka
+
+TELJESÍTMÉNY
+    teljesítmény
+    hatásfok
+
+ENERGIA
+    energia 
+    rugalmas energia
+    helyzeti energia
+    energia megmaradás
